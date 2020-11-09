@@ -1,0 +1,51 @@
+﻿  MainGame.cpp
+c:\users\apache pro\source\repos\war\war\maingame.cpp(72): warning C4244: =: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\apache pro\source\repos\war\war\maingame.cpp(73): warning C4244: =: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\apache pro\source\repos\war\war\maingame.cpp(88): warning C4244: =: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\apache pro\source\repos\war\war\maingame.cpp(89): warning C4244: =: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\apache pro\source\repos\war\war\maingame.cpp(95): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\apache pro\source\repos\war\war\maingame.cpp(97): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\apache pro\source\repos\war\war\maingame.cpp(436): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\apache pro\source\repos\war\war\maingame.cpp(452): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\apache pro\source\repos\war\war\maingame.cpp(460): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\apache pro\source\repos\war\war\maingame.cpp(468): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\apache pro\source\repos\war\war\maingame.cpp(477): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\apache pro\source\repos\war\war\maingame.cpp(497): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\apache pro\source\repos\war\war\maingame.cpp(518): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\apache pro\source\repos\war\war\maingame.cpp(537): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\apache pro\source\repos\war\war\maingame.cpp(555): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\apache pro\source\repos\war\war\maingame.cpp(563): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\apache pro\source\repos\war\war\maingame.cpp(571): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\apache pro\source\repos\war\war\maingame.cpp(580): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\apache pro\source\repos\war\war\maingame.cpp(587): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\apache pro\source\repos\war\war\maingame.cpp(595): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\apache pro\source\repos\war\war\maingame.cpp(603): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\apache pro\source\repos\war\war\maingame.cpp(612): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\apache pro\source\repos\war\war\maingame.cpp(639): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\apache pro\source\repos\war\war\maingame.cpp(662): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\apache pro\source\repos\war\war\maingame.cpp(669): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  War.vcxproj -> C:\Users\Apache Pro\source\repos\War\x64\Debug\War.exe
